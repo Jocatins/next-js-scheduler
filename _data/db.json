@@ -1,0 +1,44 @@
+{
+  "subjects": [
+    {
+      "id": "1",
+      "title": "Mathematics",
+      "body": "Study of numbers, quantities, and shapes",
+      "priority": "low",
+      "user_email": "titan@tuteria.dev",
+      "classes": "JS1, JS2, JS3"
+    },
+    {
+      "id": "2",
+      "title": "History",
+      "body": "Study of past events and human societies",
+      "priority": "medium",
+      "user_email": "titan@tuteria.dev",
+      "classes": "JS1, JS2, JS3"
+    },
+    {
+      "id": "3",
+      "title": "Chemistry",
+      "body": "Study of matter, molecules and atoms",
+      "priority": "high",
+      "user_email": "titan@tuteria.dev",
+      "classes": "SS1, SS2, SS3"
+    },
+    {
+      "title": "Biology",
+      "body": "The study of living things",
+      "priority": "high",
+      "user_email": "new-dev@dec.com",
+      "classes": "level 1",
+      "id": "TQbEFxE"
+    },
+    {
+      "title": "Physics",
+      "body": "Study of objects",
+      "priority": "medium",
+      "user_email": "new-dev@dec.com",
+      "classes": "level 1 , level-23",
+      "id": "je245Td"
+    }
+  ]
+}
